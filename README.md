@@ -9,5 +9,6 @@ cd MyWebApp
 
 dotnet watch
 ```
-Nice ✨
+Nice Work ✨
+
 <img src="https://dotnet.microsoft.com/static/images/screenshot-aspnet-tutorial-run.png">
